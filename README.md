@@ -1,5 +1,5 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Eskander A.
-![Iskoo](https://github.com/EskanderAmadov/EskanderAmadov/assets/114715507/2a0a5a6e-bc5f-4e3e-858d-243fd0609583)
+
 
 ## I am a Front End Developer (student)
 
