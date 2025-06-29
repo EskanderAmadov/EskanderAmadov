@@ -1,22 +1,19 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Eskander A.
+Hi!
+My name is Eskander A.
+I'm a Junior frontend Developer based in Norway.
 
+I recently completed my studies in front end development, and I'm currently looking for opportunities as a junior front end developer. Over the past two years, I've developed a strong passion for building clean, user-friendly websites and interfaces. 
 
-## I am a Front End Developer (student)
+To stay sharp and keep learning, I regularly work on side projects and enjoy exploring new tools and technologies in web development.
 
-I've been learning to code for the last year, and have really found a passion for coding and design. I am currently done with my first year of studies and have one year left. I am a 27-year-old man who enjoy simple things like lifting weights, swimming and going on walks in nature.
+🛠️ Skills & Tools
+HTML, CSS, JavaScript
+React (basic experience)
+Adobe XD & Figma for UI/UX design
+Visual Studio Code
 
-- 🌍  I'm based in Norway
-- ✉️  You can contact me at [eskander.amadov@gmail.com](mailto:eskander.amadov@gmail.com)
+📫 How to reach me
+You can contact me at: eskander.amadov@gmail.com
 
----
-
-### :hammer_and_wrench: Languages and Tools :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" alt="Worpress" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
-</div>
+🌱 A bit about me
+I'm 29 years old and enjoy lifting weights, listening to music, being social, and practicing martial arts like wrestling. 
